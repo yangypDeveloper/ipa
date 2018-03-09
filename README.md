@@ -21,3 +21,12 @@
 #### 6. 配置服务器
 > 服务器需要ssl证书
 
+#### 7. 一些工具
+##### 1. 同步助手
+> 直接安装ipa,查看文件(需要设置共享)
+
+[同步助手](http://zs.tongbu.com/mac/)
+##### 2. mac下空格预览ipa文件插件
+
+[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
+
